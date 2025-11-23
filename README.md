@@ -74,7 +74,7 @@ Kontaku-LTImindtree_Project/
 ### **Prerequisites**
 
 * Python 3.x installed on your system.
-* (Optional) No external pip packages required since it uses standard libraries.
+* No external pip packages required since it uses standard libraries.
 
 ### **Steps**
 
@@ -108,7 +108,7 @@ Kontaku-LTImindtree_Project/
 
 ## 📸 Project Screenshot
 
-<img width="800" height="1700" alt="image" src="https://github.com/user-attachments/assets/aaab0cd3-d0e3-44e3-b25d-31441c9cfd71" />
+<img width="900" height="1700" alt="image" src="https://github.com/user-attachments/assets/aaab0cd3-d0e3-44e3-b25d-31441c9cfd71" />
 
 
 ---
