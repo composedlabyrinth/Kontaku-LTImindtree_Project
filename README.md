@@ -57,14 +57,14 @@
 ```
 Kontaku-LTImindtree_Project/
 │
-├── kontaku_app/                 # Main Application Folder
-│   ├── main.py                  # Application entry point
-│   ├── ui.py                    # User Interface logic & event handling
-│   ├── database.py              # Database connectivity & CRUD operations
-│   ├── styles.py                # Centralized UI styling and theming
-│   └── Cicon.png                # Application icon
+├── kontaku_app/              # Main Application Folder
+│   ├── main.py               # Application entry point
+│   ├── ui.py                 # User Interface logic & Event handling
+│   ├── database.py           # Database connectivity & CRUD operations
+│   ├── styles.py             # Centralized UI styling and theming
+│   └── Cicon.png             # Application Icon
 │
-└── README.md                    # Documentation
+└── README.md                 # Documentation
 ```
 
 ---
@@ -74,59 +74,45 @@ Kontaku-LTImindtree_Project/
 ### **Prerequisites**
 
 * Python 3.x installed on your system.
-* *(Optional)* No external pip packages required — uses standard libraries.
+* (Optional) No external pip packages required since it uses standard libraries.
 
 ### **Steps**
 
-#### **1. Clone the repository:**
+1. **Clone the repository:**
 
-```
-git clone https://github.com/composedlabyrinth/Kontaku-LTImindtree_Project
-cd Kontaku-LTImindtree_Project/kontaku_app
-```
+   ```bash
+   git clone https://github.com/composedlabyrinth/Kontaku-LTImindtree_Project
+   cd Kontaku-LTImindtree_Project/kontaku_app
+   ```
 
-#### **2. Prepare the Icon:**
+2. **Prepare the Icon:**
+   Ensure you have the `Cicon.png` file in the project folder for the app icon to load correctly.
 
-Ensure `Cicon.png` is placed in the project folder for the app icon to load correctly.
+3. **Run the Application:**
 
-#### **3. Run the Application:**
-
-```
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ---
 
 ## 📖 Usage Guide
 
-### **Adding a Contact**
-
-Fill in the fields on the left panel. The phone number is validated and formatted based on the selected country code (India +91 by default).
-
-### **Editing**
-
-Click a contact in the list to load their details. Make changes and click **Update Selected**.
-
-### **Deleting**
-
-Select one or more rows (Ctrl/Shift to multi-select) and click **Delete Selected**.
-
-### **Importing**
-
-Click **Import CSV** in the sidebar. CSV must have headers: `Name, Phone, Email, Address, Category`.
-
-### **Exporting**
-
-Go to a category (e.g., Work) and click **Export Page** to save only those contacts.
+* **Adding a Contact:** Fill in the details on the left panel. The phone number field automatically formats based on the selected country code (India +91 by default).
+* **Editing:** Click a contact in the list to load their details. Make changes and click **"Update Selected"**.
+* **Deleting:** Select one or more rows (use **Ctrl** or **Shift**) and click **"Delete Selected"**.
+* **Importing:** Click **"Import CSV"** in the sidebar. Ensure your CSV has headers: `Name, Phone, Email, Address, Category`.
+* **Exporting:** Navigate to a category (e.g., *Work*) and click **"Export Page"** to save only those contacts.
 
 ---
 
 ## 📸 Project Screenshot
 
-*(Insert your application screenshot here)*
+<img width="600" height="1400" alt="image" src="https://github.com/user-attachments/assets/aaab0cd3-d0e3-44e3-b25d-31441c9cfd71" />
+
 
 ---
 
 ## 🎓 Acknowledgements
 
-This project was developed as part of the **LTIMindtree Python Training Program**. Special thanks to the instructors for their guidance.
+This project was developed as part of the LTIMindtree Python Training Program. Special thanks to the instructors for their guidance.
