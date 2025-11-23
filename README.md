@@ -108,7 +108,7 @@ Kontaku-LTImindtree_Project/
 
 ## 📸 Project Screenshot
 
-<img width="600" height="1400" alt="image" src="https://github.com/user-attachments/assets/aaab0cd3-d0e3-44e3-b25d-31441c9cfd71" />
+<img width="800" height="1700" alt="image" src="https://github.com/user-attachments/assets/aaab0cd3-d0e3-44e3-b25d-31441c9cfd71" />
 
 
 ---
